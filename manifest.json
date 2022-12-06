@@ -2,6 +2,7 @@
   "name": "Daily Chingu",
   "short_name": "Daily Chingu",
   "start_url": "https://www.dailychingu.com/",
+  "scope" : "https://www.dailychingu.com/",
   "display": "standalone",
    "background_color": "#fc6404",
   "theme_color": "#fc6404",

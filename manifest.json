@@ -1,7 +1,7 @@
 {
   "name": "Daily Chingu",
   "short_name": "Daily Chingu",
-  "start_url": "https://www.dailychingu.com/",
+  "start_url": "/",
   "scope" : "/",
   "display": "standalone",
    "background_color": "#fc6404",

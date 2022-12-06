@@ -1,0 +1,45 @@
+{
+  "name": "Daily Chingu",
+  "short_name": "Daily Chingu",
+  "start_url": "https://www.dailychingu.com/",
+  "display": "standalone",
+   "background_color": "#fc6404",
+  "theme_color": "#fc6404",
+  "description": "Portal No.1 di Indonesia yang memberitakan Hiburan Terhangat dan Terupdate dari Korea.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg71ZZKegO-P6HYC0kI_2gfzPWzWq60ix9kR10S8GcKEiMLSZMGLECiqQebT44aV4Wzn5aQR846rtPcGysts8beLCm_HylHzL9ea0gSF2dvT04GyEyCPxgLosFUTpJ2atvxuNIjWmfE8ibsB1J-QVhHZzAS82KL3flrtExmM0pGPU6zD-H_BJtwvgDv/s1600/favicon-32x32.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtXXVFR1WNrGxF8wI804aXXoGzP0fkLCu-N7jVdS1QPllHU7c08dJhU2fSTTGRWTOvFD12hvSYGiBXsWAnr7GY3OBqqUcfDDmjvRdfCqQax1QvgPTLfXZQH9rjDv2ljVKjEDhII_noGj9okqEU1snuAdLSzwPBT_V5wqTv5qw8evdJx40xWL8Gh_8q/s48/favicon.ico",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtXXVFR1WNrGxF8wI804aXXoGzP0fkLCu-N7jVdS1QPllHU7c08dJhU2fSTTGRWTOvFD12hvSYGiBXsWAnr7GY3OBqqUcfDDmjvRdfCqQax1QvgPTLfXZQH9rjDv2ljVKjEDhII_noGj9okqEU1snuAdLSzwPBT_V5wqTv5qw8evdJx40xWL8Gh_8q/s1600/favicon.ico",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtXXVFR1WNrGxF8wI804aXXoGzP0fkLCu-N7jVdS1QPllHU7c08dJhU2fSTTGRWTOvFD12hvSYGiBXsWAnr7GY3OBqqUcfDDmjvRdfCqQax1QvgPTLfXZQH9rjDv2ljVKjEDhII_noGj9okqEU1snuAdLSzwPBT_V5wqTv5qw8evdJx40xWL8Gh_8q/s1600/favicon.ico",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiZ0elGHKYSl0_yUc_kV3DOEmiv60TJX5IMZsNRsJmq_clUToLWV4i_fT5qnRlrmUgiQkqMj3rN7FOgxQED4kFtREcnAmnNzHX6I7JfUNQhs56KF7MAGrGwU9oAlavKhNH_uUT2wRevSS5QWiyZj9Y-0L9hGBVPRRXPo75oUo6XMfMrTigcT4Dxubv/s1600/android-chrome-192x192.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiZ0elGHKYSl0_yUc_kV3DOEmiv60TJX5IMZsNRsJmq_clUToLWV4i_fT5qnRlrmUgiQkqMj3rN7FOgxQED4kFtREcnAmnNzHX6I7JfUNQhs56KF7MAGrGwU9oAlavKhNH_uUT2wRevSS5QWiyZj9Y-0L9hGBVPRRXPo75oUo6XMfMrTigcT4Dxubv/s1600/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyFeIsIuQaEY9FuW0FlHcYtQrSl33GBX8PhVjl4n_poxMcBfr9-8BM_ZQU-9um_cUPJqSIOLgkwJQa8VqpabYJ6Ro9KDVAXz6S3fJ8uz7HyeCdM31FE7NtgFbezDuo2cVsxiYRbsXg_3ygkk4ZdG7qkrjOc3rXAwSbXlIPH5Rg8xtwZk-stMkfGelz/s320/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
+}
